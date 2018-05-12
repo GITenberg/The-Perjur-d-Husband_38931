@@ -19,6 +19,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/6901
     wikipedia: http://en.wikipedia.org/wiki/Susanna_Centlivre
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/38931#The-Perjur-d-Husband
 gutenberg_issued: '2012-02-19'
 gutenberg_type: Text
 identifiers:
