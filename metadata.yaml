@@ -1,0 +1,35 @@
+_repo: The-Perjur-d-Husband_38931
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Centlivre, Susanna
+    aliases:
+    - Freeman, Susanna
+    - Carrol, Susanna
+    - Carroll, S. (Susanna)
+    - Centlivre, Susanna Carroll
+    - Fox, Susanna
+    - Centlivre, Susannah
+    birthdate: 1666
+    deathdate: 1723
+    gutenberg_agent_id: '6901'
+    url: http://www.gutenberg.org/2009/agents/6901
+    wikipedia: http://en.wikipedia.org/wiki/Susanna_Centlivre
+description: ''
+gutenberg_issued: '2012-02-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38931'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Tragedies'
+- !lcsh 'English drama'
+- !lcc 'PR'
+title: The Perjur'd Husband; or, The Adventures of Venice. A Tragedy
+url: http://www.gutenberg.org/ebooks/38931
